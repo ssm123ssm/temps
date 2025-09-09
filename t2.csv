@@ -1,33 +1,33 @@
-﻿SexAge2,Dontype2,Race2A,active_12,hbDeferred,N_t_low
-F < 50,WB,Black,No,1,5.33
-F < 50,PLT or FFP,Black,No,1,27.42
-M or F ≥ 50,WB,Black,No,1,1.72
-M or F ≥ 50,PLT or FFP,Black,No,1,1.88
-F < 50,WB,Black,Yes,1,0.31
-F < 50,PLT or FFP,Black,Yes,1,0.31
-M or F ≥ 50,WB,Black,Yes,1,0.78
-M or F ≥ 50,PLT or FFP,Black,Yes,1,0.47
-F < 50,WB,Not Black,No,1,301.3
-F < 50,PLT or FFP,Not Black,No,1,349.1
-M or F ≥ 50,WB,Not Black,No,1,455.6
-M or F ≥ 50,PLT or FFP,Not Black,No,1,50.7
-F < 50,WB,Not Black,Yes,1,12.8
-F < 50,PLT or FFP,Not Black,Yes,1,3
-M or F ≥ 50,WB,Not Black,Yes,1,18.6
-M or F ≥ 50,PLT or FFP,Not Black,Yes,1,110.1
-F < 50,WB,Black,No,0,35.88
-F < 50,PLT or FFP,Black,No,0,7.21
-M or F ≥ 50,WB,Black,No,0,9.71
-M or F ≥ 50,PLT or FFP,Black,No,0,2.19
-F < 50,WB,Black,Yes,0,0.63
-F < 50,PLT or FFP,Black,Yes,0,0.47
-M or F ≥ 50,WB,Black,Yes,0,0.78
-M or F ≥ 50,PLT or FFP,Black,Yes,0,0
-F < 50,WB,Not Black,No,0,506.2
-F < 50,PLT or FFP,Not Black,No,0,336.7
-M or F ≥ 50,WB,Not Black,No,0,668.5
-M or F ≥ 50,PLT or FFP,Not Black,No,0,534.6
-F < 50,WB,Not Black,Yes,0,14.5
-F < 50,PLT or FFP,Not Black,Yes,0,43.3
-M or F ≥ 50,WB,Not Black,Yes,0,20.4
-M or F ≥ 50,PLT or FFP,Not Black,Yes,0,122.2
+﻿SexAge2,Dontype2,Race2,active_12,hbDeferred,N_t_low
+Yes,PLS_PLT,Black,non-active,1,27.42
+Yes,PLS_PLT,Black,non-active,0,7.21
+No,PLS_PLT,Black,non-active,1,1.88
+No,PLS_PLT,Black,non-active,0,2.19
+Yes,WB,Black,non-active,1,5.33
+Yes,WB,Black,non-active,0,35.88
+No,WB,Black,non-active,1,1.72
+No,WB,Black,non-active,0,9.71
+Yes,PLS_PLT,Non-black,non-active,1,349.1
+Yes,PLS_PLT,Non-black,non-active,0,336.7
+No,PLS_PLT,Non-black,non-active,1,50.7
+No,PLS_PLT,Non-black,non-active,0,534.6
+Yes,WB,Non-black,non-active,1,301.3
+Yes,WB,Non-black,non-active,0,506.2
+No,WB,Non-black,non-active,1,455.6
+No,WB,Non-black,non-active,0,668.5
+Yes,PLS_PLT,Black,active,1,0.31
+Yes,PLS_PLT,Black,active,0,0.47
+No,PLS_PLT,Black,active,1,0.47
+No,PLS_PLT,Black,active,0,0
+Yes,WB,Black,active,1,0.31
+Yes,WB,Black,active,0,0.63
+No,WB,Black,active,1,0.78
+No,WB,Black,active,0,0.78
+Yes,PLS_PLT,Non-black,active,1,3
+Yes,PLS_PLT,Non-black,active,0,43.3
+No,PLS_PLT,Non-black,active,1,110.1
+No,PLS_PLT,Non-black,active,0,122.2
+Yes,WB,Non-black,active,1,12.8
+Yes,WB,Non-black,active,0,14.5
+No,WB,Non-black,active,1,18.6
+No,WB,Non-black,active,0,20.4
