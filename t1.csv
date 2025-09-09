@@ -1,0 +1,33 @@
+﻿SexAge2,Dontype2,Race2A,active_12,hbDeferred,N_t_low
+F < 50,WB,Black,No,1,7.65
+F < 50,PLT or FFP,Black,No,1,38.38
+M or F ≥ 50,WB,Black,No,1,22.15
+M or F ≥ 50,PLT or FFP,Black,No,1,2.63
+F < 50,WB,Black,Yes,1,1
+F < 50,PLT or FFP,Black,Yes,1,0.44
+M or F ≥ 50,WB,Black,Yes,1,1.38
+M or F ≥ 50,PLT or FFP,Black,Yes,1,0.66
+F < 50,WB,Not Black,No,1,1034
+F < 50,PLT or FFP,Not Black,No,1,383.99
+M or F ≥ 50,WB,Not Black,No,1,1578.95
+M or F ≥ 50,PLT or FFP,Not Black,No,1,55.73
+F < 50,WB,Not Black,Yes,1,59.21
+F < 50,PLT or FFP,Not Black,Yes,1,4.2
+M or F ≥ 50,WB,Not Black,Yes,1,105.35
+M or F ≥ 50,PLT or FFP,Not Black,Yes,1,154.12
+F < 50,WB,Black,No,0,35.88
+F < 50,PLT or FFP,Black,No,0,7.21
+M or F ≥ 50,WB,Black,No,0,9.71
+M or F ≥ 50,PLT or FFP,Black,No,0,2.19
+F < 50,WB,Black,Yes,0,0.63
+F < 50,PLT or FFP,Black,Yes,0,0.47
+M or F ≥ 50,WB,Black,Yes,0,0.78
+M or F ≥ 50,PLT or FFP,Black,Yes,0,0
+F < 50,WB,Not Black,No,0,506.17
+F < 50,PLT or FFP,Not Black,No,0,336.67
+M or F ≥ 50,WB,Not Black,No,0,668.5
+M or F ≥ 50,PLT or FFP,Not Black,No,0,534.58
+F < 50,WB,Not Black,Yes,0,14.5
+F < 50,PLT or FFP,Not Black,Yes,0,43.33
+M or F ≥ 50,WB,Not Black,Yes,0,20.42
+M or F ≥ 50,PLT or FFP,Not Black,Yes,0,122.17
